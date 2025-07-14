@@ -11,7 +11,7 @@
 - 🎓 I’m currently pursuing MCA (2023–2025)
 - 🌱 I’m learning Cybersecurity (OWASP ZAP, CEH) & Web Technologies
 - 🧠 I’m improving my skills in Python, MySQL, and JavaScript
-- 💼 Looking for a Web Dev or Cybersecurity internship/job
+- 💼 Looking for a Web Dev software dev or Cybersecurity job
 - 💬 Ask me about **HTML, CSS, Python, OWASP tools**
 - 🧸 Fun Fact: I love teddy bears & Kinder Joy 🍫🐻
 
