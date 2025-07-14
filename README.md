@@ -53,8 +53,8 @@
 ### 📫 Connect With Me
 
 - 💌 Email: mariyamfirdoz@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/mariyamfirdoz)  
-- 🌐 Portfolio: [yourportfoliolink.com](https://yourportfoliolink.com)
+- 💼 [LinkedIn](linkedin.com/in/mariyamfirdoz)  
+- 🌐 Portfolio: [yourportfoliolink.com](https://mariyamfirdoz.github.io/Mariyam-firdoz/)
 
 ---
 
