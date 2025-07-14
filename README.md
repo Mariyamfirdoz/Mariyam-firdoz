@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mariyam Firdoz</h1>
-<h3 align="center">💻 Web & App Developer | 🔐 Aspiring Cybersecurity Engineer | 🎓 MCA 2023–2025</h3>
+<h1 align="center">Hi 👋, I'm Mariyam </h1>
+<h3 align="center">💻 Web & App Developer | 🔐 Aspiring software developer| 🎓 MCA 2023–2025</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F76C6C&center=true&width=435&lines=Passionate+Web+Developer;Cybersecurity+Learner;Python+Lover;Open+to+Opportunities+%F0%9F%94%8E" alt="Typing SVG" />
