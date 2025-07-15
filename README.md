@@ -8,12 +8,12 @@
 ---
 
 ### 👩‍💻 About Me
-- 🎓 I’m currently pursuing MCA (2023–2025)
-- 🌱 I’m learning Cybersecurity (OWASP ZAP, CEH) & Web Technologies
-- 🧠 I’m improving my skills in Python, MySQL, and JavaScript
-- 💼 Looking for a Web Dev software dev or Cybersecurity job
-- 💬 Ask me about **HTML, CSS, Python, OWASP tools**
-- 🧸 Fun Fact: I love teddy bears & Kinder Joy 🍫🐻
+ - 🎓 MCA student (2023–2025) passionate about development  
+- 🌱 Currently exploring Web Technologies like HTML, CSS, JavaScript, React & Angular 
+- 🧠 Sharpening skills in Python, Java, and MySQL  
+- 💼 Actively looking for roles in Web, App, or Software Development  
+- 💬 Comfortable working with front-end tech and writing clean, readable code  
+- 🧸 I enjoy building projects—and yes, I love teddy bears and Kinder Joy 🍫🐻
 
 ---
 
